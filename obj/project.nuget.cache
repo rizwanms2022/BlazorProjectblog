@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hzMcRZsWm/M=",
+  "dgSpecHash": "CoMdjFQy0QE=",
   "success": true,
-  "projectFilePath": "R:\\SMIT\\.NET\\Sided_Navbar\\Sided_Navbar.csproj",
+  "projectFilePath": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\Sided_Navbar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rizwan Baloch\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "C:\\Users\\Rizwan Baloch\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",

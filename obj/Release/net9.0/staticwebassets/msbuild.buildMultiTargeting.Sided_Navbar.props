@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sided_Navbar.props" />
+</Project>

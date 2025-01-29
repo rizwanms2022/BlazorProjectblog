@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sided_Navbar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d85aafd542c2fdab83a595756c58714db6378eb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecd72589c945477ba770fe03f3ad4afd87ee92f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sided_Navbar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sided_Navbar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

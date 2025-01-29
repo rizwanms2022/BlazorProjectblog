@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\SMIT\\.NET\\Sided_Navbar\\Sided_Navbar.csproj",
+      "projectUniqueName": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\Sided_Navbar.csproj",
       "projectName": "Sided_Navbar",
-      "projectPath": "R:\\SMIT\\.NET\\Sided_Navbar\\Sided_Navbar.csproj",
+      "projectPath": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\Sided_Navbar.csproj",
       "packagesPath": "C:\\Users\\Rizwan Baloch\\.nuget\\packages\\",
-      "outputPath": "R:\\SMIT\\.NET\\Sided_Navbar\\obj\\",
+      "outputPath": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rizwan Baloch\\AppData\\Roaming\\NuGet\\NuGet.Config"

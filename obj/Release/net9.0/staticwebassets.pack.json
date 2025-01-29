@@ -1,0 +1,293 @@
+{
+  "Files": [
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\bin\\Release\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\obj\\Release\\net9.0\\scopedcss\\bundle\\Sided_Navbar.styles.css",
+      "PackagePath": "staticwebassets\\Sided_Navbar.styles.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\fonts\\sd.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\sd.txt"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\icons\\github.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\github.png"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\logos\\home-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\home-2.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\logos\\home-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\home-3.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\logos\\home-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\home-4.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\logos\\home-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\home-5.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\logos\\home.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\home.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\logos\\navbar-logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logos\\navbar-logo.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\wallpaper\\Because (1).jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\wallpaper\\Because (1).jpeg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\wallpaper\\Because.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\wallpaper\\Because.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\wallpaper\\Bk-Code.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\wallpaper\\Bk-Code.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\wallpaper\\Burgerkings.png",
+      "PackagePath": "staticwebassets\\assets\\images\\wallpaper\\Burgerkings.png"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\wallpaper\\Responsive-Portfolio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\wallpaper\\Responsive-Portfolio.png"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\wallpaper\\microsoft.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\wallpaper\\microsoft.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\wallpaper\\paper.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\wallpaper\\paper.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\assets\\images\\wallpaper\\self.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\wallpaper\\self.jpg"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "R:\\SMIT\\.NET\\Github Clone Projects\\BlazorProjectblog\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.Sided_Navbar.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.Sided_Navbar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.Sided_Navbar.props",
+      "PackagePath": "build\\Sided_Navbar.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Sided_Navbar.props",
+      "PackagePath": "buildMultiTargeting\\Sided_Navbar.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.Sided_Navbar.props",
+      "PackagePath": "buildTransitive\\Sided_Navbar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
