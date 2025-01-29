@@ -1,0 +1,34 @@
+﻿@inherits LayoutComponentBase
+
+<div class="nav-desktop">
+    <div class="nav">
+        <h1 class="heading">Growing Up</h1>
+        <h1 class="heading">With Web- </h1>
+        <h1 class="heading">Development</h1>
+    </div>
+
+    <nav class="link-bar">
+        <ul>
+            <li>
+                <NavLink href="/" class="nav-link" match="NavLinkMatch.Prefix" activeClass="active">
+                    <i class="fas fa-home"></i> Home
+                </NavLink>
+            </li>
+            <li>
+                <NavLink href="/about" class="nav-link" match="NavLinkMatch.Prefix" activeClass="active">
+                    <i class="fas fa-info-circle"></i> About
+                </NavLink>
+            </li>
+            <li>
+                <NavLink href="/projects" class="nav-link" match="NavLinkMatch.Prefix" activeClass="active">
+                    <i class="fas fa-concierge-bell"></i> Projects
+                </NavLink>
+            </li>
+            <li>
+                <NavLink href="/contact" class="nav-link" match="NavLinkMatch.Prefix" activeClass="active">
+                    <i class="fas fa-envelope"></i> Contact
+                </NavLink>
+            </li>
+        </ul>
+    </nav>
+</div>

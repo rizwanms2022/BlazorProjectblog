@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+main::before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 73%;
+    height: 55vh;
+    z-index: -1;
+    opacity: .81;
+    background: url('/assets/images/logos/home-5.jpg') no-repeat center center/cover;
+    transition: .9s;
+}
+main:hover::before{
+    opacity: 1;
+    background: url('/assets/images/wallpaper/Because\ \(1\).jpeg') no-repeat center center/cover;
+    transition: .9s;
+    opacity: .9;
+
+}
+
+.cantainer{
+    display: flex;
+    width: 73vw;
+    height: auto;
+    margin: 0;
+background-color: rgba(255, 255, 255, 0);    
+padding-top: 45vh ;
+}
+
+.home{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(36, 32, 32, 0.986);
+    width: 100%;
+    padding-inline: 4rem;
+height: 47vh;
+}
+.home-title{
+    color: rgb(242, 252, 178);
+    font-weight: 600;
+    letter-spacing: 6px;
+    
+}
+.intro{
+    color: rgb(242, 252, 178);
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-top: 1rem;
+    width: 70%;
+}
+.buttons-intro{
+    display: flex;
+    padding: 5px;
+    padding-left: 0;
+    width: 50%;
+    justify-content: space-between;
+    padding-left: 0;
+}
+.buttons-intro a{
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    color: rgb(250, 255, 221);
+    border: 1px solid rgb(242, 252, 178);
+    font-weight: 600;
+    cursor: pointer;
+    transition: .6s;
+    margin: 0;
+    margin-top: 22px;
+}
+.buttons-intro a:hover{
+    background-color: rgb(242, 252, 178);
+    color: rgb(36, 32, 32);
+    transition: .6s;
+}
+
+@media (max-width: 900px) {
+    main::before{
+        content: "";
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        width: 100%;
+        height: 55vh;
+        z-index: -1;
+        opacity: .81;
+        background: url('/assets/images/logos/home-5.jpg') no-repeat center center/cover;
+        transition: .9s;
+    }
+    .cantainer{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        margin: 0;
+        padding-top: 45vh ;
+    }
+    .home{
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-color: rgba(36, 32, 32, 0.986);
+        width: 100%;
+        padding-inline: 4rem;
+        height: 47vh;
+    }
+    .home-title{
+        color: rgb(242, 252, 178);
+        font-weight: 600;
+        letter-spacing: 6px;
+        
+    }
+    .intro{
+        color: rgb(242, 252, 178);
+        font-weight: 600;
+        letter-spacing: 2px;
+        margin-top: 1rem;
+        width: 70%;
+    }
+    .buttons-intro{
+        display: flex;
+        padding: 5px;
+        padding-left: 0;
+        width: 50%;
+        justify-content: space-between;
+        padding-left: 0;
+    }
+    .buttons-intro a{
+        text-decoration: none;
+        margin: 0 10px;
+        padding: 10px 20px;
+        border: none;
+        color: rgb(250, 255, 221);
+        border: 1px solid rgb(242, 252, 178);
+        font-weight: 600;
+        cursor: pointer;
+        transition: .6s;
+        margin: 0;
+        margin-top: 22px;
+    }
+    .buttons-intro a:hover{
+        background-color: rgb(242, 252, 178);
+        color: rgb(36, 32, 32);
+        transition: .6s;
+    }
+    
+}
