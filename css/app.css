@@ -93,6 +93,7 @@ a, .btn-link {
     position: absolute;
     text-align: center;
     font-weight: bold;
+    font-size: 0.7rem;
     inset: calc(20vh + 3.25rem) 0 auto 0.5rem;
 }
 
