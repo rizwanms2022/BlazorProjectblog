@@ -84,7 +84,7 @@ a, .btn-link {
     }
 
         .loading-progress circle:last-child {
-            stroke: #1b6ec2;
+            stroke: #22a011;
             stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
             transition: stroke-dasharray 0.05s ease-in-out;
         }
@@ -93,7 +93,7 @@ a, .btn-link {
     position: absolute;
     text-align: center;
     font-weight: bold;
-    inset: calc(20vh + 3.25rem) 0 auto 0.2rem;
+    inset: calc(20vh + 3.25rem) 0 auto 0.5rem;
 }
 
     .loading-progress-text:after {
@@ -101,7 +101,7 @@ a, .btn-link {
     }
 
 code {
-    color: #c02d76;
+    color: #2d57c0;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
